@@ -1,11 +1,9 @@
+
 package observer;
 
 import java.util.Observable;
 
-/**
- *
- * @author Rung
- */
+
 public class HeadQuater extends Observable {
     private int someData;
 
