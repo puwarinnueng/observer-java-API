@@ -7,10 +7,7 @@ package observer;
 
 import java.util.Observer;
 
-/**
- *
- * @author Rung
- */
+
 public class ObserverInJavaApi {
 
     /**

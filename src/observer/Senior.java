@@ -9,7 +9,7 @@ import java.util.Observer;
 
 /**
  *
- * @author Rung
+ * @author nueng
  */
 public class Senior implements Observer {
     @Override
